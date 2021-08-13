@@ -4,7 +4,7 @@ const helloWorld = () => {
 }
 
 helloWorld()
-
+console.log(hello)
 /*2do ejemplo */
 
 var scope = 'i am global'
